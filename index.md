@@ -1,4 +1,4 @@
-## Section Name - Semantic Search: Deep Learning Meets Information Retrieval 
+## Section B04 - Semantic Search: Deep Learning Meets Information Retrieval 
 
 Mentor: Colin Jemmott 
 
